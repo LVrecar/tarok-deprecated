@@ -1,0 +1,4 @@
+﻿1. prenesite vse datoteke v mapi
+2. v isto mapo dodajte dokument "config.txt", ki naj bo prazen
+(OneDrive ne omogoča nalaganja praznih datotek v oblak)
+3. zaženite program Tarok2.0.py
